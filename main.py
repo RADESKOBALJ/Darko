@@ -1,4 +1,6 @@
-text = open("text!!!.txt", "r").read().lower()
+
+text = open("book.txt", "r").read().lower()
+
 
 
 sym_dict = {}
