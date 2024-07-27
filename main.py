@@ -19,4 +19,9 @@ lout.sort(key=lambda x: x[1], reverse=True)
 sout = "\n".join([i[0] + " " + i[1] for i in lout])
 open("analysis.txt", "r").write(sout)
 
-print('Changes to BRANCH-2')
+
+print('Changes to BRANCH-1')
+print('Changes to BRANCH-1-v-2')
+print('Changes to BRANCH-1-v-3')
+print('Changes to BRANCH-1-v-4')
+=
